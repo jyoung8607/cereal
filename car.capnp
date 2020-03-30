@@ -1,6 +1,6 @@
 using Cxx = import "./include/c++.capnp";
 $Cxx.namespace("cereal");
-
+x
 using Java = import "./include/java.capnp";
 $Java.package("ai.comma.openpilot.cereal");
 $Java.outerClassname("Car");
